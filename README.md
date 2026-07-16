@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
