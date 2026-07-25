@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
