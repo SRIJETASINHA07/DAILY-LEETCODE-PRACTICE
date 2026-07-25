@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [1260-shift-2d-grid](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
