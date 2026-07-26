@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
