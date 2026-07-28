@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 ## Trie
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
