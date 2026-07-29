@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
