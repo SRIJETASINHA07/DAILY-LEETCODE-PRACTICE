@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0016-3sum-closest) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
