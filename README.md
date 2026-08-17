@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 ## String
 |  |
 | ------- |
@@ -226,9 +227,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
@@ -303,4 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3310-remove-methods-from-project) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
