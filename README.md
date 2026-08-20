@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1386-cinema-seat-allocation](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set
