@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/2213-longest-substring-of-one-repeating-character) |
