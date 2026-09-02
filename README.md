@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0044-wildcard-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1140-stone-game-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0044-wildcard-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1927-sum-game) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
 ## Trie
 |  |
