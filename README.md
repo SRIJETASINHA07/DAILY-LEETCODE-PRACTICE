@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0877-stone-game) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [0940-distinct-subsequences-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1927-sum-game) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
