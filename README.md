@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0051-n-queens) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0877-stone-game) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bracket Sequences
 |  |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
