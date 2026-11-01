@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0051-n-queens) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0835-image-overlap) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SRIJETASINHA07/DAILY-LEETCODE-PRACTICE/tree/master/0836-rectangle-overlap) |
